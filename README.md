@@ -1,14 +1,16 @@
-## Electrónica Aplicada III
-
 ### Proyecto integrador 2018
 
 Notebook de Jupyter para los calculos y simulaciones.
 
 Escritos en lenguaje Python3.
 
-Versión online: 
+Versión GIT online: 
 
-https://mybinder.org/v2/gh/alejandro-alm/eaiii/master
+https://github.com/eaiii-frba-utn/2018
+
+Ver Notebook online:
+
+https://mybinder.org/v2/gh/eaiii-frba-utn/2018/master
 
 
 Contacto:
