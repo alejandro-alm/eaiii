@@ -1,1 +1,1 @@
-https://hub.mybinder.org/user/alejandro-alm-eaiii-kf96cmn2
+https://mybinder.org/v2/gh/alejandro-alm/eaiii/master
