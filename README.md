@@ -6,7 +6,7 @@ Escritos en lenguaje Python3.
 
 Versión GIT online: 
 
-https://github.com/eaiii-frba-utn/2018
+https://eaiii-frba-utn.github.io/2018/
 
 Ver Notebook online:
 
