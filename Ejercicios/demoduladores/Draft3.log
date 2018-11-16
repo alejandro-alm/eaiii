@@ -1,0 +1,22 @@
+Circuit: * Z:\home\aalmela\Documentos\2018\Ejercicios\demoduladores\Draft3.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov 01 22:35:14 2018
+Total elapsed time: 190.598 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 21935021
+traniter = 21935018
+tranpoints = 10233277
+accept = 7361713
+rejected = 2871564
+matrix size = 12
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.36 KB object code size  0.8/0.6/[0.5]
+Matrix Compiler2: 1.11 KB object code size  0.5/0.6/[0.5]
+
+
